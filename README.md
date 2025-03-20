@@ -1,5 +1,5 @@
-# FIMP 
-High-Resolution Remote Sensing Image Change Detection Based on Fourier Feature Interaction and Multi-scale Perception (TGRS 2024)
+# FIMP (TGRS 2024)
+High-Resolution Remote Sensing Image Change Detection Based on Fourier Feature Interaction and Multi-scale Perception 
 
 ## Cite
 If you find this work useful or interesting, please consider citing the following BibTeX entry.
